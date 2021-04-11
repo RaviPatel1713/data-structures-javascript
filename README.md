@@ -1,2 +1,3 @@
-# Data Structures (javascript)
+# data-structures-javascript
+
 
